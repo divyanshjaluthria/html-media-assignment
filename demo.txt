@@ -1,0 +1,2 @@
+1.What is HTML?
+Html is hyper-text language which helps user to give the basic structure of the web page . this is like giving layout to the wbpage after that there is CSS which helps the user to style or add some design to the web page
